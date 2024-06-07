@@ -487,6 +487,13 @@ img {
   justify-content: center;
   gap: 24px;
 }
+.footer-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer-email {
+}
 .footer-input {
   width: 264px;
   height: 40px;
@@ -547,11 +554,11 @@ img {
   pointer-events: none;
 }
 
-.is-open {
+/* .is-open {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
-}
+} */
 .modal {
   position: absolute;
   width: 408px;
