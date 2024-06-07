@@ -712,7 +712,7 @@ img {
   align-items: center;
   position: relative;
 }
-.modal-check-text span {
+.span {
   width: 16px;
   height: 16px;
   border-radius: 2px;
@@ -727,13 +727,13 @@ img {
   fill: transparent;
 }
 .privacy-policy {
-  margin: 0 auto;
+  color: #4d5ae5;
 }
 
 .modal-check:checked + .modal-check-text span {
-  background-color: #4d5ae5;
+  background-color: #404bbf;
   border: none;
-  fill: #ffffff;
+  fill: #f4f4fd;
 }
 
 .modal-btn {
