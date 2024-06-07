@@ -530,8 +530,9 @@ img {
 .button-icon {
   fill: #ffffff;
   stroke: #ffffff;
+  margin-left: 16px;
   position: absolute;
-  right: 24px;
+  right: 12px;
   top: 50%;
   transform: translateY(-50%);
 }
