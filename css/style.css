@@ -481,16 +481,12 @@ img {
 
 .footer-third-part {
 }
-.footer-form-section {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 24px;
-}
+
 .footer-form {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 24px;
 }
 .footer-email {
 }
