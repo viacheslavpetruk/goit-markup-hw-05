@@ -496,7 +496,7 @@ img {
   background-color: transparent;
   border: 1px solid #ffffff;
   border-radius: 4px;
-  padding: 0 16px;
+  padding-left: 16px;
   font: 400 12px / 2 "Roboto", sans-serif;
   letter-spacing: 0.04em;
   color: #fff;
@@ -526,13 +526,7 @@ img {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
   position: relative;
 }
-/* .button-text {
-  /* position: absolute;
-  top: 8px;
-  left: 24px;
-  min-width: 77px;
-  min-height: 24px; */
-} */
+
 .button-icon {
   fill: #ffffff;
   stroke: #ffffff;
