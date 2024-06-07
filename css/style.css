@@ -655,9 +655,10 @@ img {
 .modal-label {
   display: block;
   margin-bottom: 4px;
-  font-size: 14px;
-  letter-spacing: -0.02em;
-  color: rgba(64, 64, 64, 0.3);
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  line-height: 1.17;
+  color: #8e8f99;
 }
 
 .modal-field-wrap {
