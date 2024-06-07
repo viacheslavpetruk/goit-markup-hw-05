@@ -712,7 +712,7 @@ img {
   align-items: center;
   position: relative;
 }
-.span {
+.span-check-icon {
   width: 16px;
   height: 16px;
   border-radius: 2px;
@@ -730,7 +730,7 @@ img {
   color: #4d5ae5;
 }
 
-.modal-check:checked + .modal-check-text span {
+.modal-check:checked + .modal-check-text .span-check-icon {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
